@@ -10,7 +10,7 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, earum!</p>
     <ul>
         <li>satu</li>
-    <li>dua</li>
+        <li>dua</li>
 </ul>
 </body>
 </html>
